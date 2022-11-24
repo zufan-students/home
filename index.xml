@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Zufan Sec | Profile</title>
+        <link>https://zufan.me/</link>
+        <description>Zufan Ramadhan, Zukhrufan Ramadhan, Zufan Ramdan</description>
+        <generator>Zufan Ramadhan</generator><language>en</language><managingEditor>zufan.ramadhan@gmail.com (Zufan Ramadhan)</managingEditor>
+            <webMaster>zufan.ramadhan@gmail.com (Zufan Ramadhan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+            <atom:link href="https://zufan.me/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
